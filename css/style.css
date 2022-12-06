@@ -1,0 +1,15 @@
+.section-1 {
+    background-image: url('https://www.readersdigest.ca/wp-content/uploads/2011/11/japanese-sushi-rolls-scaled.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 20vh;
+}
+.sushi-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sushi-images img {
+    margin: 0 10px;
+    width: 400px;
+}
